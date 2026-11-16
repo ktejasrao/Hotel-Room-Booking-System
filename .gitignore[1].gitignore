@@ -1,0 +1,10 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE files (if using VS Code)
+.vscode/
+
+# Ignore the dynamic booking database so evaluators start with a fresh system
+my_bookings.txt
